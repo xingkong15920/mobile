@@ -1,0 +1,41 @@
+.fl{
+	float:left;
+}
+.fr{
+	float:right;
+}
+.clearfix:after{
+	content:"";
+	display:block;
+	clear:both;
+}
+.mr1{
+	margin-right:0.015625rem;
+}
+.mr2{
+	margin-right:0.03125rem;
+}
+.mr15{
+	margin-right:0.234375rem;
+}
+.mr20{
+	margin-right:0.3125rem;
+}
+.mr60{
+	margin-right:0.9375rem;
+}
+.mb1{
+	margin-bottom:0.015625rem;
+}
+.mb2{
+	margin-bottom:0.03125rem;
+}
+.mb9{
+	margin-bottom:0.140625rem;
+}
+.mb15{
+	margin-bottom:0.234375rem;
+}
+.mb54{
+	margin-bottom:0.84375rem;
+}
